@@ -1,0 +1,12 @@
+# > bilibili
+DOMAIN,api.biliapi.com,bilibili
+DOMAIN,api.biliapi.net, bilibili
+DOMAIN,api.bilibili.com, bilibili
+DOMAIN,app.biliapi.com, bilibili
+DOMAIN,app.biliapi.net, bilibili
+DOMAIN,app.bilibili.com, bilibili
+DOMAIN,grpc.biliapi.net, bilibili
+DOMAIN,m.bilibili.com, bilibili
+DOMAIN,upos-hz-mirrorakam.akamaized.net, bilibili
+DOMAIN,www.bilibili.com, bilibili
+DOMAIN-KEYWORD,cn-hk-eq-bcache-, bilibili
