@@ -1,0 +1,15 @@
+# > YouTube
+USER-AGENT,com.google.ios.youtube*, youtube
+USER-AGENT,YouTube*, youtube
+DOMAIN-SUFFIX,googlevideo.com, youtube
+DOMAIN-SUFFIX,withyoutube.com, youtube
+DOMAIN-SUFFIX,youtu.be, youtube
+DOMAIN-SUFFIX,youtube.com, youtube
+DOMAIN-SUFFIX,youtubeeducation.com, youtube
+DOMAIN-SUFFIX,youtubegaming.com, youtube
+DOMAIN-SUFFIX,youtubekids.com, youtube
+DOMAIN-SUFFIX,youtube-nocookie.com, youtube
+DOMAIN-SUFFIX,yt.be, youtube
+DOMAIN-SUFFIX,ytimg.com, youtube
+DOMAIN,youtubei.googleapis.com, youtube
+DOMAIN,yt3.ggpht.com, youtube
