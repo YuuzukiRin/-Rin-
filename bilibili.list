@@ -1,12 +1,12 @@
 # > bilibili
-DOMAIN,api.biliapi.com,StreamingSE
-DOMAIN,api.biliapi.net,StreamingSE
-DOMAIN,api.bilibili.com,StreamingSE
-DOMAIN,app.biliapi.com,StreamingSE
-DOMAIN,app.biliapi.net,StreamingSE
-DOMAIN,app.bilibili.com,StreamingSE
-DOMAIN,grpc.biliapi.net,StreamingSE
-DOMAIN,m.bilibili.com,StreamingSE
-DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
-DOMAIN,www.bilibili.com,StreamingSE
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
+DOMAIN,api.biliapi.com,bilibili
+DOMAIN,api.biliapi.net, bilibili
+DOMAIN,api.bilibili.com, bilibili
+DOMAIN,app.biliapi.com, bilibili
+DOMAIN,app.biliapi.net, bilibili
+DOMAIN,app.bilibili.com, bilibili
+DOMAIN,grpc.biliapi.net, bilibili
+DOMAIN,m.bilibili.com, bilibil
+DOMAIN,upos-hz-mirrorakam.akamaized.net, bilibili
+DOMAIN,www.bilibili.com, bilibili
+DOMAIN-KEYWORD,cn-hk-eq-bcache-, bilibili
