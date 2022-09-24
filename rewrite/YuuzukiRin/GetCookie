@@ -1,4 +1,4 @@
-hostname = passport.iqiyi.com, api.m.jd.com, ms.jr.jd.com, me-api.jd.com, passport.biligame.com,     *.bilibili.com, tieba.baidu.com,
+hostname = passport.iqiyi.com, api.m.jd.com, ms.jr.jd.com, me-api.jd.com, passport.biligame.com,     *.bilibili.com, tieba.baidu.com,     api.weibo.cn
 
 #NobyDa
 # 爱奇艺 cookie
@@ -18,3 +18,8 @@ hostname = passport.iqiyi.com, api.m.jd.com, ms.jr.jd.com, me-api.jd.com, passpo
 #lowking
 #哔哩哔哩番剧监控cookie
 https?:\/\/app.bilibili.com\/x\/v2\/space\/bangumi url script-request-header https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/bangumiMonitor.js
+
+#evilbutcher
+#微博超话
+^https?://m?api\.weibo\.c(n|om)\/2\/(cardlist|page\/button|page) url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.cookie.js
+
